@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisw123&label=Profile%20views&color=0e75b6&style=flat" alt="bisw123" /> </p>
 
-- 🌱 I’m currently learning **MVC In ASP.Net**
+- 🌱 I’m currently learning **MVC In .Net**
 
 - 📫 How to reach me **biswanathb2000@gmail.com**
 
